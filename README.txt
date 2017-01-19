@@ -1,3 +1,5 @@
+This is another junk change
+This is another junk change
 Last login: Thu Jan 19 20:23:49 on console
 Karls-MacBook-Pro:~ BeckiKarl$ mkdir gitclass
 Karls-MacBook-Pro:~ BeckiKarl$ cd gitclass
